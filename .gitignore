@@ -3,3 +3,7 @@
 *.tmp
 github-TOKEN.txt
 *TOKEN*
+_b.txt
+_claude_write_test.txt
+*.stale.*
+.git/*.stale*
